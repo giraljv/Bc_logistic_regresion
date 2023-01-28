@@ -1,8 +1,8 @@
-## Proyecto de regresion logistica
+## Proyecto de regresión logística
 
-proyecto donde utilizo lo aprendido en el curso de Regresion logistica de platzi.
+proyecto donde utilizo lo aprendido en el curso de Regresion logística de platzi.
 
-## informacion del dataset
+## información del dataset
 
 El dataset se encuentra en kaggle:
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
